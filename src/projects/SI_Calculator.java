@@ -2,7 +2,7 @@ package projects;
 import java.util.Scanner;
 
 
-public class Calculator {
+public class SI_Calculator {
     //  Create a Simple Interest Calculator using java
     public static void main(String... argument){
         Scanner sc = new Scanner(System.in); // Scanner Object Created;
